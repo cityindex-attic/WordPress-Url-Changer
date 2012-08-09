@@ -19,3 +19,4 @@ Similar applications
 --------------------
 1. https://github.com/interconnectit/Search-Replace-DB/blob/filestream/searchreplacedb2.php claims to handle search and replace of serialised PHP variables in the DB
 1. ServerPress has this functionality as part of the scrubbing process it employs during site import
+1. Creating this as a plugin for [wpcli](https://github.com/wp-cli/wp-cli) might provide a useful starting point eg. a way to extract the DB settings variables from the wp-config.php
