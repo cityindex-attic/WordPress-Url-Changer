@@ -17,4 +17,5 @@ copy them into the site root of the test.mysite.com site and restore the databas
 
 Similar applications
 --------------------
+1. https://github.com/interconnectit/Search-Replace-DB/blob/filestream/searchreplacedb2.php claims to handle search and replace of serialised PHP variables in the DB
 1. ServerPress has this functionality as part of the scrubbing process it employs during site import
